@@ -77,8 +77,8 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 ### LeetCode Dashboard
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=heatmap" width="49%" />
-<img src="https://leetcard.jacoblin.cool/sanjeevkumarpatel?theme=dark&font=baloo&ext=contest" width="49%" />
+<img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="49%" />
+<img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="49%" />
 </p>
 
 ### GeeksforGeeks Stats
@@ -147,7 +147,7 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 <img src="https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Patel-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/sanjeevkumarpatel/">
+<a href="https://leetcode.com/sanjeev-kumar-patel/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
