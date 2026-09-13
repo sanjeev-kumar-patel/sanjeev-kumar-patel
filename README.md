@@ -140,4 +140,8 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 <p align="center">
 ⭐ <b>Building intelligent systems that solve real-world problems</b>
+<<<<<<< HEAD
 </p>
+=======
+</p>]
+>>>>>>> efc4d6a5ddb25b335141258406423db376b6b0c5
