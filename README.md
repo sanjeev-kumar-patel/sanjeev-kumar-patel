@@ -80,17 +80,17 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumar-patel&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumar-patel&theme=tokyo-night" alt="Contribution activity graph" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://ghchart.rshah.org/409ba5/sanjeev-kumar-patel" alt="GitHub contribution chart" />
