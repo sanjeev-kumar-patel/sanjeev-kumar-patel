@@ -99,6 +99,7 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 <p align="center">
 <img src="https://raw.githubusercontent.com/sanjeev-kumar-patel/sanjeev-kumar-patel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 ---
 
 ## 🏆 Trophies
