@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sanjeev 👋</h1>
+[<h1 align="center">Hi there, I'm Sanjeev 👋</h1>
 
 <p align="center">
 AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
@@ -140,4 +140,4 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 <p align="center">
 ⭐ <b>Building intelligent systems that solve real-world problems</b>
-</p>
+</p>](https://www.geeksforgeeks.org/profile/sanjeevkumarpatel)
