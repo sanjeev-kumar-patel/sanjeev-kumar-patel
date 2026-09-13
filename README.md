@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <p align = "center">Hi there 👋</p>
 <!-- ![](https://github.com/sanjeev-kumar-patel/sanjeev-kumar-patel/blob/main/chat.svg) -->
+=======
+### Hi there 👋
+>>>>>>> ba77da4947c79cdb2ed99d460862c7524eb98d8c
 
 <p align="center">
 AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
