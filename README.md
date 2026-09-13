@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://github.com/sanjeev-kumar-patel/sanjeev-kumar-patel/blob/main/chat.svg)
 
 <p align="center">
 AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
