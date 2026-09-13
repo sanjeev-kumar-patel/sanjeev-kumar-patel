@@ -1,5 +1,5 @@
 
-<p align = "center"><h1> Hi there 👋 </h1></p>
+<h1><p align = "center"> Hi there 👋 </p></h1>
 <!-- ![](https://github.com/sanjeev-kumar-patel/sanjeev-kumar-patel/blob/main/chat.svg) -->
 
 <p align="center">
