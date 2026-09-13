@@ -1,5 +1,5 @@
-### Hi there 👋
-![](https://github.com/sanjeev-kumar-patel/sanjeev-kumar-patel/blob/main/chat.svg)
+<p align = "center">Hi there 👋</p>
+<!-- ![](https://github.com/sanjeev-kumar-patel/sanjeev-kumar-patel/blob/main/chat.svg) -->
 
 <p align="center">
 AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
@@ -26,17 +26,17 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 ### 🌐 Full Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,react" alt="Full Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mysql,react" alt="Full Stack" />
 </p>
 
 ### 🤖 AI / Machine Learning & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,tensorflow,pytorch,sklearn" alt="AI-ML" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,sklearn" alt="AI-ML" />
 </p>
 
 ### ⚙️ Dev Tools & OS
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,docker" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" alt="Tools" />
 </p>
 
 ---
