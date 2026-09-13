@@ -102,14 +102,6 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanjeev-kumar-patel&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - **Machine Learning & Data Science:** building intelligent models and exploring practical AI tools
@@ -140,5 +132,5 @@ AI / ML Enthusiast • Full Stack Developer • CSE @ NIT Srinagar
 </p>
 
 <p align="center">
-⭐ <b>Building intelligent systems that solve real-world problems</b>
+ <b>Building intelligent systems that solve real-world problems</b>
 </p>
