@@ -26,12 +26,12 @@ I'm a Computer Science undergraduate at **NIT Srinagar** interested in building 
 
 My current focus is on:
 
-* **Data Structures & Algorithms** using C++
-* **Backend & Full-Stack Development**
-* **Machine Learning & Data Science**
-* Building projects that solve practical problems
+- **Data Structures & Algorithms** using C++
+- **Backend & Full-Stack Development**
+- **Machine Learning & Data Science**
+- Building projects that solve practical problems
 
-I've solved **400+ problems across LeetCode and GeeksforGeeks**, and I regularly use problem solving as a way to improve my understanding of algorithms, complexity, and programming fundamentals.
+I've solved **400+ problems across LeetCode and GeeksforGeeks**, and I regularly use problem solving to strengthen my understanding of algorithms, complexity, and programming fundamentals.
 
 I'm particularly interested in the intersection of **software engineering, algorithms, and data-driven systems**.
 
@@ -141,29 +141,3 @@ Mathematics + Statistics
 Machine Learning / Data Science
       ↓
 Practical Software Projects
-```
-
-Alongside academics, I'm working on becoming stronger at **problem solving, software engineering, and data-driven development** by consistently building and experimenting.
-
----
-
-## Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/sanjeev-kumar-patel/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://github.com/sanjeev-kumar-patel">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:sanjeev2005p.05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev-kumar-patel&label=Profile%20Views&style=flat" alt="Profile views" />
-</p>
