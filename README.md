@@ -1,143 +1,151 @@
-<h1 align="center">Hi, I'm Sanjeev Kumar Patel 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science Undergraduate @ NIT Srinagar</b>
-</p>
+# Hi, I'm Sanjeev 👋
 
-<p align="center">
-  I build software, solve algorithmic problems, and explore machine learning.
-</p>
+### CS Undergraduate at NIT Srinagar
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/">LinkedIn</a>
-  •
-  <a href="https://leetcode.com/sanjeev-kumar-patel/">LeetCode</a>
-  •
+I like building things, solving problems, and figuring out how systems actually work.
+
+<p>
   <a href="https://github.com/sanjeev-kumar-patel">GitHub</a>
-  •
+  ·
+  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/">LinkedIn</a>
+  ·
+  <a href="https://leetcode.com/sanjeev-kumar-patel/">LeetCode</a>
+  ·
   <a href="mailto:sanjeev2005p.05@gmail.com">Email</a>
 </p>
 
----
-
-## About Me
-
-I'm a Computer Science undergraduate at **NIT Srinagar** interested in building practical software and understanding the engineering behind it.
-
-My current focus is on:
-
-- **Data Structures & Algorithms** using C++
-- **Backend & Full-Stack Development**
-- **Machine Learning & Data Science**
-- Building projects that solve practical problems
-
-I've solved **400+ problems across LeetCode and GeeksforGeeks**, and I regularly use problem solving to strengthen my understanding of algorithms, complexity, and programming fundamentals.
-
-I'm particularly interested in the intersection of **software engineering, algorithms, and data-driven systems**.
+</div>
 
 ---
 
-## Featured Projects
+## A little about me
 
-### 🔎 [GitHub Portfolio Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer)
+I'm a Computer Science undergraduate at **NIT Srinagar**.
 
-A tool that analyzes GitHub profiles, repositories, and activity to extract useful insights about a developer's public work.
+Most of my time goes into two things: **building software** and **solving problems**.
 
-**Focus:** GitHub API • Data Processing • Backend Development
+I enjoy working on projects where I have to figure things out myself — designing the backend, working with databases, debugging something that refuses to work, and eventually getting it running.
 
----
+I'm also getting deeper into **Machine Learning and Data Science**. At the moment, I'm more interested in understanding the fundamentals behind a model than simply importing a library and calling `.fit()`.
 
-### 🎓 [NIT Srinagar E-Samarth Portal](https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal)
-
-A campus-focused e-services portal designed around common student and institutional workflows at NIT Srinagar.
-
-**Focus:** Full-Stack Development • Authentication • Database • REST APIs
+I've solved **400+ problems on LeetCode and GeeksforGeeks**, mainly to get better at thinking about problems rather than just collecting problem counts.
 
 ---
 
-### 📈 [LeetCode Progress](https://github.com/sanjeev-kumar-patel/leetcodeprogress)
-
-A personal dashboard for tracking and visualizing LeetCode practice, helping maintain consistency and understand problem-solving progress over time.
-
-**Focus:** Data Visualization • Web Development • Progress Tracking
-
----
-
-### 🏫 [CAMPUS-LIFE](https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE)
-
-A platform focused on improving student interaction and engagement around campus activities and everyday student life.
-
-**Focus:** Web Development • Student Platforms • Backend Systems
-
----
-
-## Technical Skills
+## What I'm working with
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
-</p>
+`C++` `C` `Python` `JavaScript`
 
-### Web & Backend
+### Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+`HTML` `CSS` `React` `Node.js` `Express`
 
-### Databases & Tools
+### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,bash,postman" />
-</p>
+`MySQL` `MongoDB`
 
-### Machine Learning
+### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
+`Git` `GitHub` `Linux` `Bash` `VS Code` `Postman`
 
-Currently learning more about **machine learning fundamentals, statistical concepts, model evaluation, and the mathematics behind ML algorithms.**
+### Learning
+
+`Machine Learning` `Data Science` `Statistics` `Mathematics`
+
+---
+
+## Things I've built
+
+I prefer projects where there is an actual problem to solve rather than building another tutorial project.
+
+### [GitHub Portfolio Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer)
+
+A tool that looks at a GitHub profile and its repositories to turn raw GitHub activity into useful information.
+
+**Built with:** Node.js · GitHub API · JavaScript
+
+---
+
+### [NIT Srinagar E-Samarth Portal](https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal)
+
+A campus e-services portal built around common student and institutional workflows.
+
+**Built with:** React · Node.js · Express · SQLite
+
+---
+
+### [LeetCode Progress](https://github.com/sanjeev-kumar-patel/leetcodeprogress)
+
+A small project I built to keep track of my LeetCode practice and visualize how my problem-solving habit is progressing.
+
+**Built with:** JavaScript · Web Development · Data Visualization
+
+---
+
+### [CAMPUS-LIFE](https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE)
+
+A platform built around student interaction and everyday campus life.
+
+**Built with:** Web Development · Backend · Database
 
 ---
 
 ## Problem Solving
 
+A big part of my learning has been competitive programming and DSA.
+
+I'm currently focused on getting better at:
+
+- Data Structures
+- Algorithms
+- Dynamic Programming
+- Graphs
+- Greedy Algorithms
+- Binary Search
+- Complexity Analysis
+- Problem Solving
+
+### LeetCode
+
 <p align="center">
   <a href="https://leetcode.com/sanjeev-kumar-patel/">
-    <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="48%" alt="LeetCode Heatmap" />
+    <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="48%" />
   </a>
   <a href="https://leetcode.com/sanjeev-kumar-patel/">
-    <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="48%" alt="LeetCode Contest Stats" />
+    <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="48%" />
   </a>
 </p>
+
+### GeeksforGeeks
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/sanjeevkumarpatel/">
-    <img src="https://gfgstatscard.vercel.app/sanjeevkumarpatel?theme=dark" alt="GeeksforGeeks Stats" />
+    <img src="https://gfgstatscard.vercel.app/sanjeevkumarpatel?theme=dark" />
   </a>
 </p>
 
 ---
 
-## GitHub Activity
+## What I'm learning right now
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
----
-
-## Current Focus
+I'm trying to keep my learning focused instead of jumping between every new technology.
 
 ```text
 C++ / DSA
-      ↓
-Problem Solving & Algorithms
-      ↓
-Mathematics + Statistics
-      ↓
-Machine Learning / Data Science
-      ↓
-Practical Software Projects
+    │
+    ├── Algorithms
+    ├── Problem Solving
+    └── Competitive Programming
+             │
+             ↓
+      Mathematics & Statistics
+             │
+             ↓
+      Machine Learning
+             │
+             ↓
+       Data Science
