@@ -1,86 +1,169 @@
-<h1 align="center">Hey, I'm Sanjeev 👋</h1>
+<h1 align="center">Hi, I'm Sanjeev Kumar Patel 👋</h1>
 
 <p align="center">
-CS undergrad at NIT Srinagar — building things, breaking things, occasionally fixing them
+  <b>Computer Science Undergraduate @ NIT Srinagar</b>
+</p>
+
+<p align="center">
+  I build software, solve algorithmic problems, and explore machine learning.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/">LinkedIn</a>
+  •
+  <a href="https://leetcode.com/sanjeev-kumar-patel/">LeetCode</a>
+  •
+  <a href="https://github.com/sanjeev-kumar-patel">GitHub</a>
+  •
+  <a href="mailto:sanjeev2005p.05@gmail.com">Email</a>
 </p>
 
 ---
 
-## A bit about me
+## About Me
 
-I'm studying Computer Science at NIT Srinagar, and most of my time splits between two things: building full-stack projects end-to-end, and grinding DSA problems because I actually enjoy the process of getting stuck on something and slowly figuring it out.
+I'm a Computer Science undergraduate at **NIT Srinagar** interested in building practical software and understanding the engineering behind it.
 
-More recently I've been pulled into machine learning — less "let's add AI to everything" and more trying to understand what's actually happening under the hood when a model makes a prediction.
+My current focus is on:
 
-I've solved 400+ problems across LeetCode and GeeksforGeeks so far, which sounds impressive until you remember how many of those were embarrassingly easy ones I needed to warm up on.
+* **Data Structures & Algorithms** using C++
+* **Backend & Full-Stack Development**
+* **Machine Learning & Data Science**
+* Building projects that solve practical problems
 
----
+I've solved **400+ problems across LeetCode and GeeksforGeeks**, and I regularly use problem solving as a way to improve my understanding of algorithms, complexity, and programming fundamentals.
 
-## What I've been building
-
-| Project | What it does |
-|---|---|
-| [Github_Portfolio_Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer) | Pulls apart a GitHub profile's repos and activity to surface what's actually worth noticing. |
-| [NIT-Srinagar-E-Samarth-Portal](https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal) | A campus e-services portal for NIT Srinagar. |
-| [leetcodeprogress](https://github.com/sanjeev-kumar-patel/leetcodeprogress) | Tracks and visualizes my (sometimes inconsistent) LeetCode progress. |
-| [CAMPUS-LIFE](https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE) | A platform built around student campus life and engagement. |
-
-These four are also pinned on my profile if you want a quicker look.
+I'm particularly interested in the intersection of **software engineering, algorithms, and data-driven systems**.
 
 ---
 
-## What I work with day to day
+## Featured Projects
 
-**Building things:** HTML, CSS, JavaScript, Node.js, Express, React, MySQL, MongoDB
+### 🔎 [GitHub Portfolio Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer)
 
-**Languages I reach for:** C, C++, Python
+A tool that analyzes GitHub profiles, repositories, and activity to extract useful insights about a developer's public work.
 
-**Currently learning more about:** scikit-learn and the math behind the models, not just calling `.fit()`
-
-**Tools:** Git, GitHub, VS Code, Linux, Bash, Postman
+**Focus:** GitHub API • Data Processing • Backend Development
 
 ---
 
-## Where I solve problems
+### 🎓 [NIT Srinagar E-Samarth Portal](https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal)
+
+A campus-focused e-services portal designed around common student and institutional workflows at NIT Srinagar.
+
+**Focus:** Full-Stack Development • Authentication • Database • REST APIs
+
+---
+
+### 📈 [LeetCode Progress](https://github.com/sanjeev-kumar-patel/leetcodeprogress)
+
+A personal dashboard for tracking and visualizing LeetCode practice, helping maintain consistency and understand problem-solving progress over time.
+
+**Focus:** Data Visualization • Web Development • Progress Tracking
+
+---
+
+### 🏫 [CAMPUS-LIFE](https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE)
+
+A platform focused on improving student interaction and engagement around campus activities and everyday student life.
+
+**Focus:** Web Development • Student Platforms • Backend Systems
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
+</p>
+
+### Web & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux,bash,postman" />
+</p>
+
+### Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+Currently learning more about **machine learning fundamentals, statistical concepts, model evaluation, and the mathematics behind ML algorithms.**
+
+---
+
+## Problem Solving
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="49%" alt="LeetCode heatmap" />
-<img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="49%" alt="LeetCode contest stats" />
+  <a href="https://leetcode.com/sanjeev-kumar-patel/">
+    <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="48%" alt="LeetCode Heatmap" />
+  </a>
+  <a href="https://leetcode.com/sanjeev-kumar-patel/">
+    <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="48%" alt="LeetCode Contest Stats" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://www.geeksforgeeks.org/profile/sanjeevkumarpatel/">
-<img src="https://gfgstatscard.vercel.app/sanjeevkumarpatel?theme=dark" alt="GeeksforGeeks Stats" />
-</a>
+  <a href="https://www.geeksforgeeks.org/profile/sanjeevkumarpatel/">
+    <img src="https://gfgstatscard.vercel.app/sanjeevkumarpatel?theme=dark" alt="GeeksforGeeks Stats" />
+  </a>
 </p>
 
 ---
 
-## GitHub activity
+## GitHub Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-<img src="https://ghchart.rshah.org/409ba5/sanjeev-kumar-patel" alt="GitHub contribution chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
 
-## What I'm focused on right now
+## Current Focus
 
-I'm splitting my attention between three things: getting better at ML and data science by actually building models instead of just reading about them, designing cleaner full-stack architectures with MongoDB and Node.js, and keeping up a steady (if imperfect) DSA practice habit.
+```text
+C++ / DSA
+      ↓
+Problem Solving & Algorithms
+      ↓
+Mathematics + Statistics
+      ↓
+Machine Learning / Data Science
+      ↓
+Practical Software Projects
+```
+
+Alongside academics, I'm working on becoming stronger at **problem solving, software engineering, and data-driven development** by consistently building and experimenting.
 
 ---
 
-## Reach out
+## Connect
 
-- LinkedIn: [Sanjeev Kumar Patel](https://www.linkedin.com/in/sanjeev-kumar-patel/)
-- GitHub: [@sanjeev-kumar-patel](https://github.com/sanjeev-kumar-patel)
-- LeetCode: [sanjeev-kumar-patel](https://leetcode.com/sanjeev-kumar-patel/)
-- Email: [sanjeev2005p.05@gmail.com](mailto:sanjeev2005p.05@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/sanjeev-kumar-patel/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/sanjeev-kumar-patel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sanjeev2005p.05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sanjeev-kumar-patel&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sanjeev-kumar-patel&label=Profile%20Views&style=flat" alt="Profile views" />
 </p>
