@@ -95,7 +95,7 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -104,10 +104,6 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumar-patel&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanjeev-kumar-patel/sanjeev-kumar-patel/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
 ---
