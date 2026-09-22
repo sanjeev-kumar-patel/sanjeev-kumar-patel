@@ -90,6 +90,7 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 ### Stats, for the curious
 
 <p align="center">
+
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true"
@@ -99,20 +100,33 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumar-patel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   />
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjeev-kumar-patel&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sanjeev-kumar-patel&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumar-patel&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumar-patel&theme=tokyo-night&hide_border=true"
+    width="90%"
+  />
+
+</p>
 ---
 
 ### Where this is headed
