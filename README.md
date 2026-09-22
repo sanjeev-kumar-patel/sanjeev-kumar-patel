@@ -41,41 +41,6 @@ If something in one of these repos is useful to you, dig in. Always up for talki
 
 ---
 
-### Things I've built
-
-<p align="center">
-  <a href="https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=Github_Portfolio_Analyzer&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=NIT-Srinagar-E-Samarth-Portal&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sanjeev-kumar-patel/leetcodeprogress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=leetcodeprogress&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=CAMPUS-LIFE&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<table align="center">
-<tr><td>
-
-**GitHub Portfolio Analyzer** — pulls a GitHub profile and its repos and turns the raw activity into something you can actually read at a glance. `Node.js` `GitHub API`
-
-**NIT Srinagar E-Samarth Portal** — a campus e-services portal built around the workflows students and the institution deal with on repeat. `React` `Node.js` `Express` `SQLite`
-
-**LeetCode Progress Tracker** — built this to check whether my problem-solving practice was actually improving over time, instead of just assuming it. `JavaScript` `Data Visualization`
-
-**CAMPUS-LIFE** — a platform built around student interaction and day-to-day campus life. `Web Dev` `Backend` `Database`
-
-</td></tr>
-</table>
-
----
-
 ### Problem solving
 
 Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, complexity analysis. It's the thing I come back to when I want to get sharper, not just log more hours.
@@ -92,41 +57,11 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 <p align="center">
 
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumar-patel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
     src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true"
   />
 
 </p>
 
-<p align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sanjeev-kumar-patel&theme=tokyonight&no-frame=true&row=1&column=6"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumar-patel&theme=tokyo-night&hide_border=true"
-    width="90%"
-  />
-
-</p>
 ---
 
 ### Where this is headed
