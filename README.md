@@ -21,13 +21,13 @@
 
 ### About
 
-I like projects where something is actually broken or missing — not the ones where the answer's already sitting in a tutorial three tabs over. Backend design, database schemas, the two hours of debugging right before something finally runs — that's the part that hooks me. There's a specific kind of quiet after a bug dies that nothing else really gives you.
+I like projects where something is actually broken or missing — not the ones where the answer's already sitting in a tutorial three tabs over. Backend design, database schemas, the stretch of debugging right before something finally runs — that's the part that hooks me. I'd rather spend a weekend figuring out why a query is slow than follow a guide that tells me the fix upfront.
 
-Lately I've been pulled toward ML and data science, but not in an `import sklearn` and move-on way. I want to know what's happening under the model before I'm willing to trust its output — which means slowing down on the math and statistics most people are happy to skip. It's slower. It's also the only way I actually trust the number at the end.
+Lately I've been pulled toward ML and data science, but not in an `import sklearn` and move-on way. I want to know what's happening under the model before I trust what it outputs, which means sitting with the math and statistics most people are content to skip past. It takes longer. It's also the only way I end up believing the number at the end.
 
-I've also put in a few hundred hours on LeetCode and GeeksforGeeks — 400+ problems, mostly in C++. The count isn't really the point; it's about getting faster at seeing how a problem breaks down before I start typing anything.
+Outside of that, I've put in a few hundred hours on LeetCode and GeeksforGeeks — 400+ problems, mostly in C++. The count was never really the goal; it's the speed at which I can look at a new problem and see the shape of it that I'm actually tracking.
 
-If something in one of these repos is useful to you, dig in. Always happy to talk DSA, ML fundamentals, or why a particular project is held together with duct tape and mild denial.
+If something in one of these repos is useful to you, dig in. Always up for talking DSA, ML fundamentals, or explaining why a particular project still runs on duct tape and a prayer.
 
 ---
 
@@ -63,13 +63,13 @@ If something in one of these repos is useful to you, dig in. Always happy to tal
 <table align="center">
 <tr><td>
 
-**GitHub Portfolio Analyzer** — pulls a GitHub profile and its repos and turns the raw activity into something actually readable. `Node.js` `GitHub API`
+**GitHub Portfolio Analyzer** — pulls a GitHub profile and its repos and turns the raw activity into something you can actually read at a glance. `Node.js` `GitHub API`
 
-**NIT Srinagar E-Samarth Portal** — a campus e-services portal built for workflows students and the institution deal with all the time. `React` `Node.js` `Express` `SQLite`
+**NIT Srinagar E-Samarth Portal** — a campus e-services portal built around the workflows students and the institution deal with on repeat. `React` `Node.js` `Express` `SQLite`
 
-**LeetCode Progress Tracker** — built this to actually check whether my problem-solving practice was improving over time, instead of just assuming it was. `JavaScript` `Data Visualization`
+**LeetCode Progress Tracker** — built this to check whether my problem-solving practice was actually improving over time, instead of just assuming it. `JavaScript` `Data Visualization`
 
-**CAMPUS-LIFE** — a platform centered on student interaction and day-to-day campus life. `Web Dev` `Backend` `Database`
+**CAMPUS-LIFE** — a platform built around student interaction and day-to-day campus life. `Web Dev` `Backend` `Database`
 
 </td></tr>
 </table>
@@ -78,7 +78,7 @@ If something in one of these repos is useful to you, dig in. Always happy to tal
 
 ### Problem solving
 
-Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, complexity analysis. It's the thing I keep coming back to when I want to get sharper, not just busier.
+Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, complexity analysis. It's the thing I come back to when I want to get sharper, not just log more hours.
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="48%" />
@@ -114,12 +114,12 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 DSA & C++  →  Math & Statistics  →  Machine Learning  →  Data Science
 ```
 
-Roughly the order I'm working through it. DSA is the foundation; everything else builds on it.
+Roughly the order I'm working through it, in public, mistakes included. DSA is the foundation everything else sits on — I'm not moving past it until it's actually solid.
 
 ---
 
 <p align="center">
-  <i>If you've read this far, you're either genuinely curious or avoiding your own README. Either way — say hi.</i><br/><br/>
+  <i>If you've read this far, we should probably just talk. Reach out.</i><br/><br/>
   <a href="mailto:sanjeev2005p.05@gmail.com">sanjeev2005p.05@gmail.com</a>
 </p>
 
