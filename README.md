@@ -92,8 +92,9 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true"
   />
+
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumar-patel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
