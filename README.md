@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Sanjeev 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Sanjeev%20Kumar%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20NIT%20Srinagar%20%C2%B7%20Class%20of%202028&descAlignY=58&descSize=18" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+undergrad+at+NIT+Srinagar;Breaking+things+to+understand+them;Currently+arguing+with+gradient+descent;400%2B+problems+deep+into+DSA" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them;Currently+arguing+with+gradient+descent;400%2B+problems+deep+into+DSA;Debugging+is+my+cardio" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -12,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev-kumar-patel&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sanjeev-kumar-patel&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -41,39 +43,35 @@ If something in one of these repos is useful to you, dig in. Always happy to tal
 
 ### Things I've built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <a href="https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=Github_Portfolio_Analyzer&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=NIT-Srinagar-E-Samarth-Portal&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sanjeev-kumar-patel/leetcodeprogress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=leetcodeprogress&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjeev-kumar-patel&repo=CAMPUS-LIFE&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-**[GitHub Portfolio Analyzer](https://github.com/sanjeev-kumar-patel/Github_Portfolio_Analyzer)**
-Pulls a GitHub profile and its repos and turns the raw activity into something actually readable.
-`Node.js` `GitHub API`
+<table align="center">
+<tr><td>
 
-</td>
-<td width="50%" valign="top">
+**GitHub Portfolio Analyzer** — pulls a GitHub profile and its repos and turns the raw activity into something actually readable. `Node.js` `GitHub API`
 
-**[NIT Srinagar E-Samarth Portal](https://github.com/sanjeev-kumar-patel/NIT-Srinagar-E-Samarth-Portal)**
-A campus e-services portal built for workflows students and the institution deal with all the time.
-`React` `Node.js` `Express` `SQLite`
+**NIT Srinagar E-Samarth Portal** — a campus e-services portal built for workflows students and the institution deal with all the time. `React` `Node.js` `Express` `SQLite`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**LeetCode Progress Tracker** — built this to actually check whether my problem-solving practice was improving over time, instead of just assuming it was. `JavaScript` `Data Visualization`
 
-**[LeetCode Progress Tracker](https://github.com/sanjeev-kumar-patel/leetcodeprogress)**
-Built this to actually check whether my problem-solving practice was improving over time, instead of just assuming it was.
-`JavaScript` `Data Visualization`
+**CAMPUS-LIFE** — a platform centered on student interaction and day-to-day campus life. `Web Dev` `Backend` `Database`
 
-</td>
-<td width="50%" valign="top">
-
-**[CAMPUS-LIFE](https://github.com/sanjeev-kumar-patel/CAMPUS-LIFE)**
-A platform centered on student interaction and day-to-day campus life.
-`Web Dev` `Backend` `Database`
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
@@ -101,7 +99,15 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjeev-kumar-patel&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumar-patel&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjeev-kumar-patel/sanjeev-kumar-patel/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
 ---
