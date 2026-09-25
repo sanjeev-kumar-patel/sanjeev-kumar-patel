@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=180&section=header&text=Sanjeev%20Kumar%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20NIT%20Srinagar%20%C2%B7%20Class%20of%202028&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Sanjeev%20Kumar%20Patel&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%C2%B7%20NIT%20Srinagar%20%C2%B7%20Class%20of%202028&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Breaking+things+to+understand+them;Currently+arguing+with+gradient+descent;400%2B+problems+deep+into+DSA;Debugging+is+my+cardio" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Breaking+things+to+understand+them;Currently+arguing+with+gradient+descent;400%2B+problems+deep+into+DSA;Debugging+is+my+cardio;Reading+the+math+before+I+trust+the+model" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -19,25 +19,37 @@
 
 ---
 
-### About
+### The short version
 
 I like projects where something is actually broken or missing — not the ones where the answer's already sitting in a tutorial three tabs over. Backend design, database schemas, the stretch of debugging right before something finally runs — that's the part that hooks me. I'd rather spend a weekend figuring out why a query is slow than follow a guide that tells me the fix upfront.
 
 Lately I've been pulled toward ML and data science, but not in an `import sklearn` and move-on way. I want to know what's happening under the model before I trust what it outputs, which means sitting with the math and statistics most people are content to skip past. It takes longer. It's also the only way I end up believing the number at the end.
 
-Outside of that, I've put in a few hundred hours on LeetCode and GeeksforGeeks — 400+ problems, mostly in C++. The count was never really the goal; it's the speed at which I can look at a new problem and see the shape of it that I'm actually tracking.
+Outside of that: 400+ problems on LeetCode and GeeksforGeeks, mostly in C++. The count was never the goal — it's the speed at which I can look at a new problem and see its shape that I'm actually tracking.
 
-If something in one of these repos is useful to you, dig in. Always up for talking DSA, ML fundamentals, or explaining why a particular project still runs on duct tape and a prayer.
+If something in one of these repos is useful to you, dig in.
 
 ---
 
-### What I work with
+### Currently
+
+- **Building** — projects that force me to learn something the hard way
+- **Learning** — Machine Learning · Data Science · Statistics (properly, not just the API)
+- **Sharpening** — DSA in C++ · complexity analysis · graph problems
+- **Goal** — a DSA foundation solid enough that everything else can sit on it
+
+---
+
+### The toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,express,mysql,mongodb,git,github,linux,bash,vscode,postman&theme=dark" />
 </p>
 
-<p align="center"><b>Learning right now:</b> Machine Learning · Data Science · Statistics</p>
+<p align="center">
+  <b>Comfortable:</b> C++ · Python · JavaScript · Node · Express · MySQL · MongoDB · Git<br/>
+  <b>Learning:</b> ML fundamentals · Statistics · Data Science
+</p>
 
 ---
 
@@ -55,11 +67,12 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 ### Stats, for the curious
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumar-patel&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-  <img
-    src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true"
-  />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +80,10 @@ Mostly DSA: data structures, algorithms, DP, graphs, greedy, binary search, comp
 ### Where this is headed
 
 ```
-DSA & C++  →  Math & Statistics  →  Machine Learning  →  Data Science
+DSA & C++  ──▶  Math & Statistics  ──▶  ML Fundamentals  ──▶  Data Science
+    │                  │                      │                     │
+  400+ problems    probability,         building from        real datasets,
+  graphs, DP       linear algebra       scratch first        honest results
 ```
 
 Roughly the order I'm working through it, in public, mistakes included. DSA is the foundation everything else sits on — I'm not moving past it until it's actually solid.
@@ -75,8 +91,10 @@ Roughly the order I'm working through it, in public, mistakes included. DSA is t
 ---
 
 <p align="center">
-  <i>If you've read this far, we should probably just talk. Reach out.</i><br/><br/>
-  <a href="mailto:sanjeev2005p.05@gmail.com">sanjeev2005p.05@gmail.com</a>
+  <i>If you've read this far, we should probably just talk.</i><br/><br/>
+  <a href="mailto:sanjeev2005p.05@gmail.com">
+    <img src="https://img.shields.io/badge/Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
