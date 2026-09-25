@@ -19,7 +19,7 @@
 
 ---
 
-### The short version
+### About
 
 I like projects where something is actually broken or missing — not the ones where the answer's already sitting in a tutorial three tabs over. Backend design, database schemas, the stretch of debugging right before something finally runs — that's the part that hooks me. I'd rather spend a weekend figuring out why a query is slow than follow a guide that tells me the fix upfront.
 
