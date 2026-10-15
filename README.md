@@ -93,10 +93,7 @@ If something in one of my repos is useful to you, take it and run. If it's broke
 
 DSA is the thing I come back to when I want to get sharper, not just log more hours: data structures, DP, graphs, greedy, binary search, and (always) complexity analysis. Most of it is in C++.
 
-<p align="center">
-  <a href="https://leetcode.com/sanjeev-kumar-patel/"><img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=heatmap" width="48%" alt="LeetCode stats" /></a>
-  <a href="https://leetcode.com/sanjeev-kumar-patel/"><img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="48%" alt="LeetCode contest" /></a>
-</p>
+<p align="center"> <a href="https://leetcode.com/u/sanjeev-kumar-patel/"> <img src="https://github-readme-leetcode-card.romitsagu.com/sanjeev-kumar-patel?theme=tokyonight&hide_border=true&show=graph,recent" width="70%" alt="LeetCode stats" /> </a> </p> 
 
 --- 
 
