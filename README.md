@@ -21,7 +21,7 @@
 
 ## 👋 A little about me
 
-I'm a second-year-ish CS student who gets the most out of projects where something is actually broken or missing. Not the ones where the answer is sitting in a tutorial three tabs over. Give me a slow query, a weird bug, or a half-working schema and I'll happily lose a weekend to it.
+I'm a third-year-ish CS student who gets the most out of projects where something is actually broken or missing. Not the ones where the answer is sitting in a tutorial three tabs over. Give me a slow query, a weird bug, or a half-working schema and I'll happily lose a weekend to it.
 
 Right now I'm pulled toward **machine learning and data science**, but I'm trying to do it the slow way. Before I trust a model's output, I want to know what's happening underneath: the probability, the linear algebra, the statistics most tutorials skip. It takes longer. It's also the only way I end up believing the number at the end.
 
