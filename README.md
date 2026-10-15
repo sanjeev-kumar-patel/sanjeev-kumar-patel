@@ -100,7 +100,7 @@ DSA is the thing I come back to when I want to get sharper, not just log more ho
 
 ---
 
-## 📌 Things I've built
+<!-- ## 📌 Things I've built
 
 <!--
   Fill these in with your real pinned repos. Pick 3-4 you're proud of.
@@ -113,7 +113,7 @@ DSA is the thing I come back to when I want to get sharper, not just log more ho
 | **[Project name](https://github.com/sanjeev-kumar-patel/REPO-NAME)** | One line on what it does | The hard thing you had to figure out |
 | **[Project name](https://github.com/sanjeev-kumar-patel/REPO-NAME)** | One line on what it does | The hard thing you had to figure out |
 
----
+--- -->
 
 ## 📊 GitHub activity
 
