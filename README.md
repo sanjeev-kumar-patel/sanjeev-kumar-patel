@@ -21,7 +21,7 @@
 
 ## 👋 A little about me
 
-I'm a third-year-ish CS student who gets the most out of projects where something is actually broken or missing. Not the ones where the answer is sitting in a tutorial three tabs over. Give me a slow query, a weird bug, or a half-working schema and I'll happily lose a weekend to it.
+I'm a second-year-ish CS student who gets the most out of projects where something is actually broken or missing. Not the ones where the answer is sitting in a tutorial three tabs over. Give me a slow query, a weird bug, or a half-working schema and I'll happily lose a weekend to it.
 
 Right now I'm pulled toward **machine learning and data science**, but I'm trying to do it the slow way. Before I trust a model's output, I want to know what's happening underneath: the probability, the linear algebra, the statistics most tutorials skip. It takes longer. It's also the only way I end up believing the number at the end.
 
@@ -44,47 +44,47 @@ If something in one of my repos is useful to you, take it and run. If it's broke
 
 ## 🧰 Tech I work with
 
-> Click any icon to visit its official website.
+> Click any icon to open that tool's official documentation.
 
 **Languages & Web**
 
 <p>
-  <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;
-  <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
+  <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
+  <a href="https://docs.python.org/3/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;
+  <a href="https://react.dev/learn" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
 </p>
 
 **Backend & Databases**
 
 <p>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://nodejs.org/docs/latest/api/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>&nbsp;
+  <a href="https://expressjs.com/en/guide/routing.html" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>&nbsp;
+  <a href="https://dev.mysql.com/doc/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>&nbsp;
+  <a href="https://www.mongodb.com/docs/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
 </p>
 
 **Tools & Environment**
 
 <p>
-  <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;
-  <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.kernel.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
+  <a href="https://git-scm.com/doc" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;
+  <a href="https://docs.github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;
+  <a href="https://docs.kernel.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/docs" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>&nbsp;
+  <a href="https://learning.postman.com/docs/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
 </p>
 
 **Currently learning (ML & Data)**
 
 <p>
-  <a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /></a>&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /></a>&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /></a>&nbsp;
-  <a href="https://jupyter.org/" target="_blank" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /></a>
+  <a href="https://numpy.org/doc/" target="_blank" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /></a>&nbsp;
+  <a href="https://pandas.pydata.org/docs/" target="_blank" title="Pandas"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /></a>&nbsp;
+  <a href="https://scikit-learn.org/stable/user_guide.html" target="_blank" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /></a>&nbsp;
+  <a href="https://docs.jupyter.org/" target="_blank" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /></a>
 </p>
 
 ---
