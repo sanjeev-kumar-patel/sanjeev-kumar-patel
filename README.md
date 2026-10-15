@@ -98,22 +98,7 @@ DSA is the thing I come back to when I want to get sharper, not just log more ho
   <a href="https://leetcode.com/sanjeev-kumar-patel/"><img src="https://leetcard.jacoblin.cool/sanjeev-kumar-patel?theme=dark&font=baloo&ext=contest" width="48%" alt="LeetCode contest" /></a>
 </p>
 
----
-
-<!-- ## 📌 Things I've built
-
-<!--
-  Fill these in with your real pinned repos. Pick 3-4 you're proud of.
-  Tip: for each one, say WHAT was broken/hard and WHAT you learned. That's the "human" part.
--->
-
-| Project | What it is | What it taught me |
-|---|---|---|
-| **[Project name](https://github.com/sanjeev-kumar-patel/REPO-NAME)** | One line on what it does | The hard thing you had to figure out |
-| **[Project name](https://github.com/sanjeev-kumar-patel/REPO-NAME)** | One line on what it does | The hard thing you had to figure out |
-| **[Project name](https://github.com/sanjeev-kumar-patel/REPO-NAME)** | One line on what it does | The hard thing you had to figure out |
-
---- -->
+--- 
 
 ## 📊 GitHub activity
 
