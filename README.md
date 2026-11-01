@@ -1,141 +1,98 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=Hey,%20I'm%20Sanjeev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20undergrad%20at%20NIT%20Srinagar%20%C2%B7%20Class%20of%202028&descAlignY=58&descSize=18" width="100%" alt="header" />
-</p>
+SANJEEV
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+break+things+to+understand+them;Currently+arguing+with+gradient+descent;400%2B+problems+into+DSA%2C+still+counting+patterns;I+don't+trust+a+model+until+I've+seen+the+math" alt="typing animation" />
-</p>
+0%
 
-<p align="center">
-  <a href="https://github.com/sanjeev-kumar-patel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/sanjeev-kumar-patel/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:sanjeev2005p.05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+1. Compiling the C++ I trust
+2. Re-deriving the gradient by hand
+3. Counting problems (still not the point)
+4. Breaking one small thing on purpose
+5. Putting it back together
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev-kumar-patel&label=Profile%20Views&color=58A6FF&style=flat-square" alt="profile views" />
-</p>
+Tap anywhere to skip
 
----
+# Hi, I’m Sanjeev.
 
-## 👋 A little about me
+I’m a CS student at NIT Srinagar (class of 2028), and I learn best when something is actually broken.
 
-I'm a second-year-ish CS student who gets the most out of projects where something is actually broken or missing. Not the ones where the answer is sitting in a tutorial three tabs over. Give me a slow query, a weird bug, or a half-working schema and I'll happily lose a weekend to it.
+I don’t trust a model until I’ve seen the math. So here is the smallest version of one: a ball rolling down a loss curve.
 
-Right now I'm pulled toward **machine learning and data science**, but I'm trying to do it the slow way. Before I trust a model's output, I want to know what's happening underneath: the probability, the linear algebra, the statistics most tutorials skip. It takes longer. It's also the only way I end up believing the number at the end.
+Learning rate 0.12 Click or tap the curve to drop a point.
 
-On the side, I solve problems (**400+ on LeetCode and GeeksforGeeks**, mostly in C++). The count was never the point. What I'm really tracking is how quickly I can look at a new problem and see its shape.
+try the right side, then crank the learning rate up
 
-If something in one of my repos is useful to you, take it and run. If it's broken, even better, tell me why.
+## What I’m like
 
----
+Give me a slow query, a weird bug or a half-working schema and I’ll happily lose a weekend to it. The projects where the answer is sitting in a tutorial three tabs over don’t teach me much.
 
-## 🔭 What I'm up to
+Right now I’m pulled toward machine learning and data science, but I’m doing it the slow way: the probability, the linear algebra and the statistics most tutorials skip. It takes longer. It’s also the only way I end up believing the number at the end.
 
-| | |
-|---|---|
-| 🛠️ **Building** | Projects that make me learn something the hard way |
-| 📚 **Learning** | ML fundamentals · Statistics · Data Science, properly, not just the API |
-| 🧩 **Sharpening** | DSA in C++ · complexity analysis · graphs and DP |
-| 🎯 **Goal** | A DSA foundation solid enough that everything else can stand on it |
+If something in one of my repos is useful, take it and run. If it’s broken, even better. Tell me why.
 
----
+## Things I’m building
 
-## 🧰 Tech I work with
+### GitHub bug scanner
 
-> Click any icon to open that tool's official documentation.
+Watches pushes and pull requests, looks for bugs, posts what it finds to GitHub and a dashboard, then tracks whether they get fixed.
 
-**Languages & Web**
+still on paper
 
-<p>
-  <a href="https://en.cppreference.com/w/cpp" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
-  <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
-  <a href="https://docs.python.org/3/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference" target="_blank" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>&nbsp;
-  <a href="https://react.dev/learn" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
-</p>
+### Dining Philosophers
 
-**Backend & Databases**
+The classic OS synchronisation problem, written in C++17 for my operating systems coursework.
 
-<p>
-  <a href="https://nodejs.org/docs/latest/api/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>&nbsp;
-  <a href="https://expressjs.com/en/guide/routing.html" target="_blank" title="Express"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="https://dev.mysql.com/doc/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>&nbsp;
-  <a href="https://www.mongodb.com/docs/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
-</p>
+coursework, but it’s a good bug magnet
 
-**Tools & Environment**
+The rest lives on [GitHub](https://github.com/sanjeev-kumar-patel).
 
-<p>
-  <a href="https://git-scm.com/doc" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;
-  <a href="https://docs.github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;
-  <a href="https://docs.kernel.org/" target="_blank" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank" title="Bash"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/docs" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>&nbsp;
-  <a href="https://learning.postman.com/docs/" target="_blank" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /></a>
-</p>
+## How I read a problem
 
-**Currently learning (ML & Data)**
-
-<p>
-  <a href="https://numpy.org/doc/" target="_blank" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /></a>&nbsp;
-  <a href="https://pandas.pydata.org/docs/" target="_blank" title="Pandas"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /></a>&nbsp;
-  <a href="https://scikit-learn.org/stable/user_guide.html" target="_blank" title="scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn" /></a>&nbsp;
-  <a href="https://docs.jupyter.org/" target="_blank" title="Jupyter"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /></a>
-</p>
-
----
-
-## 🧠 Problem solving
-
-DSA is the thing I come back to when I want to get sharper, not just log more hours: data structures, DP, graphs, greedy, binary search, and (always) complexity analysis. Most of it is in C++.
-
-<p align="center"> <a href="https://leetcode.com/u/sanjeev-kumar-patel/"> <img src="https://github-readme-leetcode-card.romitsagu.com/sanjeev-kumar-patel?theme=tokyonight&hide_border=true&show=graph,recent" width="70%" alt="LeetCode stats" /> </a> </p> 
-
---- 
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumar-patel&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjeev-kumar-patel&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 🗺️ The roadmap (in public, mistakes included)
+I’m past 400 problems on LeetCode and GeeksforGeeks, mostly in C++. The count was never the point. What I track is how quickly I can look at something new and see its shape: graphs, DP, greedy, binary search, and always the complexity.
 
 ```
-DSA & C++  ──▶  Math & Statistics  ──▶  ML Fundamentals  ──▶  Data Science
-    │                   │                      │                     │
- 400+ problems     probability,          build from            real datasets,
- graphs, DP        linear algebra        scratch first         honest results
+// Smallest speed that still finishes in time.
+// The question I ask first: is the answer monotonic?
+int lo = 1, hi = *max_element(a.begin(), a.end());
+while (lo < hi) {
+    int mid = lo + (hi - lo) / 2;
+    if (canFinish(a, mid, h)) hi = mid;
+    else lo = mid + 1;
+}
+return lo;
 ```
 
-I'm not rushing past DSA. Everything else sits on top of it, so it needs to be solid first.
+if yes, binary search the answer
 
----
+[My LeetCode profile](https://leetcode.com/u/sanjeev-kumar-patel/)
 
-## 💬 Let's talk
+## What I reach for
 
-I'm always up for talking about DSA, backend design, debugging stories, or how to actually learn ML without just calling `.fit()`. If you're working on something interesting, or you found a bug in one of my repos, reach out.
+For problem solving
 
-<p align="center">
-  <a href="mailto:sanjeev2005p.05@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  <a href="https://www.linkedin.com/in/sanjeev-kumar-patel/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+C++ first, C when I want to be closer to the machine.
 
-<p align="center">
-  <i>Thanks for reading this far. ⭐ a repo if it helped you, I notice.</i>
-</p>
+For the web
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=100&section=footer" width="100%" alt="footer" />
-</p>
+JavaScript, React, Node.js, Express, HTML and CSS, with MySQL or MongoDB behind it.
+
+Day to day
+
+Git and GitHub, Linux and Bash, VS Code, Postman.
+
+Still learning
+
+Python, NumPy, pandas, scikit-learn and Jupyter, properly, not just the API.
+
+## The roadmap, mistakes included
+
+1. **DSA and C++**Graphs and DP. I’m not rushing past this; everything else sits on top of it.
+2. **Math and statistics**Probability and linear algebra, the parts tutorials skip.
+3. **ML fundamentals**Build from scratch first, then reach for the library.
+4. **Data science**Real datasets and honest results.
+
+## Say hello
+
+I’m up for talking about DSA, backend design, debugging stories, or how to learn ML without just calling `.fit()`. If you found a bug in one of my repos, I especially want to hear from you.
+
+[Write an email](mailto:sanjeev2005p.05@gmail.com) [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-patel/) [GitHub](https://github.com/sanjeev-kumar-patel)
+
+Built by hand, on graph paper. Stars on a repo are noticed.
